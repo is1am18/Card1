@@ -1,0 +1,10 @@
+body {
+    background-color:deepskyblue;
+}
+
+.card {
+    border: 2px solid violet;
+    margin-left: 500px;
+    margin-top: 90px;
+}
+
